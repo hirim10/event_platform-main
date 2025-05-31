@@ -8,7 +8,6 @@ This is a full-stack event booking platform I built using Next.js 14, TypeScript
 - Backend: Server Actions, MongoDB, Zod
 - Auth: Clerk
 - Payments: Stripe
-- Uploads: UploadThing
 
 ## Features
 
