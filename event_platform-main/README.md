@@ -22,9 +22,7 @@ This is a full-stack event booking platform I built using Next.js 14, TypeScript
 
 ## Getting Started
 
-1. Clone the repo
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+1. Clone the rep
 
 2. Install dependencies
    npm install
